@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @faizal-ebil
+  
 - 👀 I’m interested in :
-- Web Development
-- Mobile Development
-- Application Development
+  - Web Development
+  - Mobile Development
+  - Application Development
+ 
+
 - 🌱 I’m currently learning :
-- Vue.js
-- Flutter
+  - Vue.js
+  - Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
